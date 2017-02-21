@@ -4,7 +4,7 @@
 
 #include "Window.h"
 
-// Text stream is text-codec aware
+// Text stream is text-codec aware.
 //QTextStream cout(stdout, QIODevice::WriteOnly);
 
 int main(int argc, char *argv[])
